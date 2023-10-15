@@ -9,6 +9,9 @@ if path.exists():
     f.close()
 else:
     data = {}
+# zad domowe
+# zrobic tabelke, nazwa metody, opis co ona robi jesli chodzi o slownik - np w wordzie, co robi, co zwraca
+# inne opcje niz poznane
 
 commands = ["new_contact", "show_contacts"]
 while True:
